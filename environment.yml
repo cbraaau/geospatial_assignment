@@ -6,7 +6,6 @@ channels:
 dependencies:
 - rasterio
 - pysal=2.0.0
-- bokeh
 - numpy
 - matplotlib
 - geopandas
